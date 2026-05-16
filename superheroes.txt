@@ -1,0 +1,37 @@
+inicio 
+
+definir poderes
+definir superheroes
+definir cantidad de superheroes
+definir cantidad de poderes
+definir lista de superheroes
+
+hacer
+
+leer texto-nombre
+leer texto-poderes
+leer texto-cantidad de superheroes
+
+si
+mostrar (cantidad de superheroes)
+
+si no
+mostrar (cantidad de poderes)
+
+si
+leer (cantidad = numeros)
+
+fin si 
+si (¿desea continuar?)
+
+si 
+leer (continuar)
+
+si no
+leer (lista de superheroes)
+
+mostrar
+
+superhéroe lia - poder del agua
+superhéroe celeste - poder de hablar con animales
+superhéroe paulo - poder de invisibilidad

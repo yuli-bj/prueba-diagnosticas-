@@ -1,0 +1,43 @@
+la pregunta 4
+comandos utilizados git clone, git status, git add, 
+
+
+la pregunta 5
+
+inicio 
+
+definir nombre
+definir apellido 1
+definir apellido 2
+definir año de crecimiento 
+definir genero
+definir lista de participantes
+
+hacer
+
+leer texto-nombre 
+leer texto-nacimiento
+leer texto-lista de participantes
+leer texto-apellidos
+
+si 
+mostrar (año de nacimiento) 
+año de nacimiento = año de nacimiento + 1
+
+si no
+mostrar (genero)
+genero = genero +1
+
+fin si
+si (si desea continuar)
+leer si continuar
+
+si entonces 
+
+mostrar 
+paciente N#1 Valentina lopez acosta - edad 18 - femenino
+paciente N#2 Manuel Garcia Guadamuz - ead 20 - masculino
+paciente N#3 Sofia Chavez Jimenes - edad 22 - femenino 
+
+
+
